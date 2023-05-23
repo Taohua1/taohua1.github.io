@@ -4,7 +4,7 @@ SEOTitle: 桃华的个人博客
 header-img: img/post-bg-desk.jpg
 email: 2545080793@qq.com
 description: "记录自己的学习"
-keyword: "学习记录"
+keyword: "记录自己的学习"
 url: "https://taohua1.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/taohua1/taohua1.github.io.git" # you code repository
