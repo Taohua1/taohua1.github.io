@@ -1,13 +1,13 @@
 # Site settings
-title: 桃夭
+title: 桃之夭夭，灼灼其华
 SEOTitle: 个人博客
-header-img: /img/about-someone.jpg
+header-img: img/post-bg-desk.jpg
 email: 2545080793@qq.com
 description: "学习记录"
 keyword: "学习记录"
 url: "https://taohua1.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/taohua1/taohua1.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: taohua1.github.io    #仓库名称
+  owner: taohua1    #github用户名
+  admin: taohua1
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
